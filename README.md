@@ -46,3 +46,5 @@ A su vez creamos la tabla calendario [calendar] para poder ser utilizada en func
 El modelo quedó de la siguiente forma:
 
 [Modelo](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/modelo.PNG)
+
+![Logo](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/modelo.PNG?raw=true)
