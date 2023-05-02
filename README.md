@@ -74,7 +74,7 @@ En la segunda y última página llamada "Segmento Premium" se efectuó un detall
 
 ![Logo](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/premium.PNG?raw=true)
 
-[Visualización página Segmento Premium con tooltip](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/premium%20con%20tooltip.PNG)
+[Visualización página Segmento Premium con tooltip](https://github.com/fedeandresg/call-center-anonymous-bank/blob/main/premium%20con%20tooltip.PNG?raw=true)
 ## Insights
 
 A lo largo del trabajo de análisis, visualización y exploración de datos, arribamos a las siguientes conclusiones:
@@ -91,4 +91,4 @@ Para segmento Premium:
 - Los clientes tuvieron un promedio de espera en VRU de 5,7 segundos, un tiempo promedio de espera en cola de 86,7 segundos (lo cual indica que se estaría cumpliendo con la condición de asignarles 90 segundos para avanzar en la cola) y un tiempo promedio de llamada en servicio de 179,03 segundos. Podemos concluir que los clientes premium tienen tiempos cortos de espera en promedio para cada fase, en especial los 10 más frecuentes, pero los mismos varían mes a mes.
 - El segmento premium tiene llamadas en su mayoría por motivos de actividad regular en español e intercambio de acciones principalmente. 
 - Solo se registraron 2 llamadas en el año por actividad en internet para dicho segmento de clientes, lo que nos permite inferir que no utilizan medios electrónicos.
-- Los picos de llamadas se registraron desde Marzo hasta Agosto y en Noviembre y Diciembre. El resto de meses las llamadas disminuyeron considerablemente por lo que resulta útil para el call center reforzar la contración de agentes para los meses de alta demanda.
+- Los picos de llamadas se registraron desde Marzo hasta Agosto y en Noviembre y Diciembre. En el resto de los meses, las llamadas disminuyeron considerablemente por lo que resulta útil para el call center reforzar la contración de agentes en los meses de alta demanda solamente.
